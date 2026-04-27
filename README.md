@@ -16,6 +16,4 @@ This project is licensed under the **EUPL v1.2**.
 
 > ⚖️ **Rights enforced by EUPL v1.2**
 > 
-> Sagittarius is "Soft Software" built for "Hard Hardware". We believe in openness and reciprocity. Any derivative works or network deployments must remain under the same protective umbrella. 
-> 
-> *Copyright (c) 2024-2026 FFrXstDeVv.*
+> *Copyright (c) 2024-2026 ffrxst.*
