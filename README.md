@@ -12,8 +12,6 @@ Sagittarius OS
 
 ## License
 
-This project is licensed under the **EUPL v1.2**.
-
 > ⚖️ **Rights enforced by EUPL v1.2**
 > 
 > *Copyright (c) 2024-2026 ffrxst.*
