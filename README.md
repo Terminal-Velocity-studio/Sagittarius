@@ -36,11 +36,13 @@ The short name for Sagittarius OS is SGS OS.
 
 - [x] Bootloader
 - [x] VGA output
+- [x] CPU Exceptions
 - [ ] Paging
 - [ ] Heap allocator
 - [ ] Terminal
 - [ ] Custom FS
 - [ ] Recovery Terminal
+- [ ] Graphics
 
 
 ### Support me
