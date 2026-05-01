@@ -2,7 +2,7 @@
 name = "sagittarius-os"
 version = "0.1.0"
 authors = ["ffrxst"]
-edition = "2021"
+edition = "2024"
 
 [profile.dev]
 panic = "abort"
@@ -11,8 +11,8 @@ panic = "abort"
 panic = "abort"
 
 [dependencies]
-bootloader = "0.9"
-volatile = "0.2.6"
+bootloader = { version = "0.9", features = ["map_physical_memory"]}
+volatile = "0.2.7"
 spin = "0.5.2"
 x86_64 = "0.15.4"
 pic8259 = "0.11.0"
